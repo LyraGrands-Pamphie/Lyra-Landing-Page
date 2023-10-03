@@ -1,10 +1,7 @@
 # Lyra-Landing-Page
 
 
-<h1>Hi, I'm Lyra! <br/><a href="https://github.com/Lyra-Landing-Page">PCI DSS Consultant</a>, <a href="https://www.linkedin.com/in/lyra-grands/">Security Consultant | Security Architect | Risks Analyst | Cybersecurity Analyst | GRC Analyst | Internal Auditor</a>, <a 
-
-<p>Here's a photo:</p>
-    <img src="Lyra.jpg" alt="Professional Me">
+<h1>Hi, I'm Lyra! <br/><a href="https://github.com/Lyra-Landing-Page">PCI DSS Consultant</a>, <a href="https://www.linkedin.com/in/lyra-grands/">Security Consultant | Security Architect | Risks Analyst | Cybersecurity Analyst | GRC Analyst | Internal Auditor</a>, <a </h1>
 
 
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
